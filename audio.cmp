@@ -1,0 +1,87 @@
+Cmp-Mod V01 Created by Cvpcb (2014-07-24 BZR 5024)-product   date = Wed Jul 30 19:40:16 2014
+
+BeginCmp
+TimeStamp = /53D92BBF;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = Capacitors_ThroughHole:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D92BC0;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = Capacitors_ThroughHole:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D92BC1;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = Capacitors_ThroughHole:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D92BC2;
+Reference = C4;
+ValeurCmp = C;
+IdModule  = Capacitors_ThroughHole:Capacitor3MMDiscRM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D92BB1;
+Reference = P1;
+ValeurCmp = CONN_25X2;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x25;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D92BB5;
+Reference = P2;
+ValeurCmp = CONN_4;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D92BB3;
+Reference = P3;
+ValeurCmp = CONN_8;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D92BB4;
+Reference = P4;
+ValeurCmp = CONN_8;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D93118;
+Reference = U1;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D93962;
+Reference = U2;
+ValeurCmp = 74LS02;
+IdModule  = Sockets_DIP:DIP-14__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D92BB2;
+Reference = U3;
+ValeurCmp = AY-3-8910;
+IdModule  = Sockets_DIP:DIP-40__600_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53D92BB6;
+Reference = X1;
+ValeurCmp = OSCILLATOR-VDD-4;
+IdModule  = Oscillator-Modules:OSCILLATOR_KXO-200;
+EndCmp
+
+EndListe
